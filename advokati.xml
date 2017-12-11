@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<advokati>
+<advokat>
+<ime>Harvi</ime>
+<prezime>Spektar</prezime>
+</advokat>
+<advokat>
+<ime>Majk</ime>
+<prezime>Ros</prezime>
+</advokat>
+<advokat>
+<ime>Dzesika</ime>
+<prezime>Pirson</prezime>
+</advokat>
+
+</advokati>

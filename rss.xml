@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="tabelarss.xsl"?>
+<rss version="2.0">
+
+<channel>
+<item>
+  <title>Suits</title>
+  <link>http://stefan141.byethost13.com/index.html</link>
+  <description>pocetna strana sajta</description>
+  </item>
+  <item>
+  
+    <title>Galerija</title>
+    <link>http://stefan141.byethost13.com/galerija.html</link>
+    <description>Slike iz Serije</description>
+  </item>
+   <item>
+    <title>Harvi</title>
+    <link>http://stefan141.byethost13.com/harvey.html</link>
+    <description>Glavni lik u seriji</description>
+  </item>
+   <item>
+    <title>Majkl</title>
+    <link>http://stefan141.byethost13.com/majkl.html</link>
+    <description>Sjajan advokat</description>
+  </item>
+   <item>
+    <title>Dzesika</title>
+    <link>http://stefan141.byethost13.com/dzesika.html</link>
+    <description>Glavni zenski lik</description>
+  </item>
+   <item>
+    <title>O autoru</title>
+    <link>http://stefan141.byethost13.com/autors.html</link>
+    <description>Stranica o autoru</description>
+  </item>
+   <item>
+    <title>Registracija</title>
+    <link>http://stefan141.byethost13.com/registracija.html</link>
+    <description>Registracija za sajt</description>
+  </item>
+</channel>
+
+</rss> 

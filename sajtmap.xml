@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tabela.xsl"?>
+
+<urlset>
+
+
+<url>
+  <loc>http://stefanphp.byethost4.com/index.php</loc>
+  <lastmod>2016-06-14T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+ <loc>http://stefanphp.byethost4.com/harvey.php</loc>
+  <lastmod>2017-02-19T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+ <loc>http://stefanphp.byethost4.com/majkl.php</loc>
+  <lastmod>2016-06-14T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+ <loc>http://stefanphp.byethost4.com/dzesika.php</loc>
+  <lastmod>2016-06-14T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+ <loc>http://stefanphp.byethost4.com/galerija.php</loc>
+  <lastmod>2016-06-14T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+ <loc>http://stefanphp.byethost4.com/registracija.php</loc>
+  <lastmod>2016-06-14T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+ <loc>http://stefanphp.byethost4.com/autors.php</loc>
+  <lastmod>2016-06-14T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+ <loc>http://stefanphp.byethost4.com/admin.php</loc>
+  <lastmod>2016-06-14T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+ <loc>http://stefanphp.byethost4.com/serije.php</loc>
+  <lastmod>2016-06-14T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+ <loc>http://stefanphp.byethost4.com/admin_brisanje.php</loc>
+  <lastmod>2016-06-14T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+ <loc>http://stefanphp.byethost4.com/admin_unos.php</loc>
+  <lastmod>2016-06-14T19:28:10+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+</urlset>

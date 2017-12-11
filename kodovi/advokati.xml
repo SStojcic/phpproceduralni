@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<advokati>
+<advokat>
+<ime>Oliver</ime>
+<prezime>Kvin</prezime>
+</advokat>
+<advokat>
+<ime>Felisiti</ime>
+<prezime>Smouk</prezime>
+</advokat>
+<advokat>
+<ime>Laurel</ime>
+<prezime>Lens</prezime>
+</advokat>
+
+</advokati>
